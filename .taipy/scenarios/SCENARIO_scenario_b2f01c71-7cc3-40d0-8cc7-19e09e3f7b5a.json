@@ -1,0 +1,20 @@
+{
+"id": "SCENARIO_scenario_b2f01c71-7cc3-40d0-8cc7-19e09e3f7b5a",
+"config_id": "scenario",
+"tasks": [
+"TASK_build_graph_data_d6c19489-d602-497f-82d3-e81e25a8a4ae",
+"TASK_get_lin_ce41ff34-f750-4d73-a8b9-8421a9b181cd",
+"TASK_get_knn_9c32750c-f886-4d37-a3d6-dca1f15b9b2f",
+"TASK_get_rnn_3f7b725c-145b-4178-92ae-d24682a00f17",
+"TASK_build_company_names_9caf2e2c-8d53-4302-adc8-87571ba83b81"
+],
+"additional_data_nodes": [],
+"properties": {},
+"creation_date": "2025-11-30T17:21:14.340253",
+"primary_scenario": false,
+"subscribers": [],
+"tags": [],
+"version": "4f502e17-4200-4454-a3eb-507cf5ca080f",
+"sequences": null,
+"cycle": null
+}

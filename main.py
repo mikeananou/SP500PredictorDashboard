@@ -487,8 +487,11 @@ if __name__ == "__main__":
     # run application - pass scenario and other variables to state
     gui.run(
         title = "S&P 500 Prediction Dashboard",
-        # automatically reload app when main.py is saved
-        use_reloader = True,
+        # Set host and port for production deployment
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 5000)),
+        # Disable reloader in production
+        use_reloader = False,
         # Make scenario available in state
         scenario=scenario
         )

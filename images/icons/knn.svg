@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect x="8" y="8" width="240" height="240" rx="20" fill="#0d1117"/>
+  <g fill="#58a6ff">
+    <circle cx="64" cy="180" r="10"/>
+    <circle cx="96" cy="120" r="10"/>
+    <circle cx="140" cy="160" r="10"/>
+    <circle cx="180" cy="100" r="10"/>
+  </g>
+  <path d="M64 180 L96 120 L140 160 L180 100" stroke="#58a6ff" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <text x="128" y="230" font-family="Segoe UI, Arial" font-size="20" text-anchor="middle" fill="#ffffff">KNN</text>
+</svg>

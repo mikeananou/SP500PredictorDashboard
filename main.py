@@ -65,11 +65,11 @@ import pandas as pd
 # File paths
 STOCK_DATA_PATH = "data/sp500_stocks.csv"
 COMPANY_DATA_PATH = "data/sp500_companies.csv"
-LOGO_PATH = "images/icons/logo.png"
-ID_CARD_ICON_PATH = "images/icons/id-card.png"
-LIN_ICON_PATH = "images/icons/lin.png"
-KNN_ICON_PATH = "images/icons/knn.png"
-NN_ICON_PATH = "images/icons/rnn.png"
+LOGO_PATH = "images/icons/logo.svg"
+ID_CARD_ICON_PATH = "images/icons/id-card.svg"
+LIN_ICON_PATH = "images/icons/lin.svg"
+KNN_ICON_PATH = "images/icons/knn.svg"
+NN_ICON_PATH = "images/icons/rnn.svg"
 FLAGS_PATH = "images/flags/"
 
 # Model hyperparameters

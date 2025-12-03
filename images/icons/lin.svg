@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
-  <rect x="8" y="8" width="240" height="240" rx="20" fill="#0d1117"/>
-  <path d="M32 200 L220 56" stroke="#58a6ff" stroke-width="10" stroke-linecap="round"/>
-  <circle cx="32" cy="200" r="8" fill="#58a6ff"/>
-  <circle cx="220" cy="56" r="8" fill="#58a6ff"/>
-  <text x="128" y="230" font-family="Segoe UI, Arial" font-size="20" text-anchor="middle" fill="#ffffff">Linear</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" aria-label="Linear Regression">
+  <rect x="3" y="6" width="26" height="20" rx="3" fill="#0d1117"/>
+  <path d="M6 24 L26 10" stroke="#58a6ff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="6" cy="24" r="1.6" fill="#58a6ff"/>
+  <circle cx="26" cy="10" r="1.6" fill="#58a6ff"/>
 </svg>

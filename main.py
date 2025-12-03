@@ -65,7 +65,7 @@ import pandas as pd
 # File paths
 STOCK_DATA_PATH = "data/sp500_stocks.csv"
 COMPANY_DATA_PATH = "data/sp500_companies.csv"
-LOGO_PATH = "images/icons/logo.svg"
+LOGO_PATH = "images/icons/logo.png"
 ID_CARD_ICON_PATH = "images/icons/id-card.svg"
 LIN_ICON_PATH = "images/icons/lin.svg"
 KNN_ICON_PATH = "images/icons/knn.svg"

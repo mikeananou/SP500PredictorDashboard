@@ -1,0 +1,29 @@
+{
+"id": "DATANODE_company_e9c694d8-ba70-4071-93b4-92cfb1f4308e",
+"config_id": "company",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_16701bfb-1a4b-41b9-aa2a-2d39aa54a75b",
+"parent_ids": [
+"TASK_get_lin_c8964371-6a7e-4b5b-83b0-04eca221df18",
+"TASK_get_nn_03070827-a6c1-4ce3-b2a9-137cb9ba3561",
+"TASK_get_knn_0b83f65a-3a98-48d9-a85f-03ddf6c8a6cd",
+"TASK_build_graph_data_dab08502-c2df-4b51-8d07-0858dbbc46be"
+],
+"last_edit_date": "2025-12-03T01:11:13.777488",
+"edits": [
+{
+"timestamp": "2025-12-03T01:11:13.777488"
+}
+],
+"version": "3965fd98-4ffa-48d9-b7f9-1d7ce06df24b",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true,
+"path": "user_data/pickles/DATANODE_company_e9c694d8-ba70-4071-93b4-92cfb1f4308e.p"
+}
+}

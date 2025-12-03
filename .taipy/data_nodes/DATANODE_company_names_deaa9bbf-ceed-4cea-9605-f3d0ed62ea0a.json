@@ -1,0 +1,22 @@
+{
+"id": "DATANODE_company_names_deaa9bbf-ceed-4cea-9605-f3d0ed62ea0a",
+"config_id": "company_names",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_16701bfb-1a4b-41b9-aa2a-2d39aa54a75b",
+"parent_ids": [
+"TASK_build_company_names_ee97213c-75bb-41fd-beeb-7bfeb06352f6"
+],
+"last_edit_date": "2025-12-03T01:11:15.778132",
+"edits": [],
+"version": "3965fd98-4ffa-48d9-b7f9-1d7ce06df24b",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true,
+"path": "user_data/pickles/DATANODE_company_names_deaa9bbf-ceed-4cea-9605-f3d0ed62ea0a.p"
+}
+}
